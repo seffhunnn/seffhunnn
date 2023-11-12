@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/seffhunnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="seffhunnn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohd saif ansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd saif ansari" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohd-saif-ansari-27a67527a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd saif ansari" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/jojo xxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jojo xxd" height="30" width="40" /></a>
 </p>
 
