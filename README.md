@@ -1,4 +1,4 @@
-![logo](https://github.com/seffhunnn/seffhunnn/blob/main/caad.jpg)
+
 <h1 align="center">Hi 👋, I'm Saif</h1>
 <h3 align="center">Passionate Bachelor of Technology (B.Tech) Computer Science Student | Experienced in C, C++, Java, Python, SQL, HTML, and CSS | Currently Learning Data Structures & Algorithms | Android & Web development Enthusiast | Experienced Video Editor(Adobe Premiere Pro) & Graphic Designer(Adobe Photoshop)</h3>
 
