@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seffhunnn&label=Profile%20views&color=0e75b6&style=flat" alt="seffhunnn" /> </p>
 
-<p align="left"> <a href="https://twitter.com/seffhunnn" target="blank"><img src="https://img.shields.io/twitter/follow/seffhunnn?logo=twitter&style=for-the-badge" alt="seffhunnn" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [Online Recipe Sharing Platform](https://github.com/seffhunnn/Online-Recipe-Sharing-Platform)
 
@@ -18,7 +18,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/seffhunnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="seffhunnn" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohd saif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd saif" height="30" width="40" /></a>
 <a href="https://instagram.com/seff.fx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seff.fx" height="30" width="40" /></a>
 </p>
