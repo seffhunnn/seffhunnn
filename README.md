@@ -4,18 +4,18 @@
   <span style="color:#00FFAB;">✦ I smoke & commit sometimes ✦</span>
 </h2> 
 
-<p align="center">
+<!-- <p align="center">
   <img src="200.gif" width="400"/>
-</p> 
+</p>  -->
 
 
 ###
 
-<!-- <picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seffhunnn/seffhunnn/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seffhunnn/seffhunnn/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/seffhunnn/seffhunnn/output/pacman-contribution-graph.svg">
-</picture> -->
+</picture> 
 
 ###
 
