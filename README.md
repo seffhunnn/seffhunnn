@@ -66,7 +66,7 @@
 <p align="center">
   <img 
     src="https://github-readme-stats-fast.vercel.app/api?username=seffhunnn&show_icons=true&theme=dark&hide_border=true&bg_color=161B22&include_all_commits=true&hide=contribs" 
-    width="51%" 
+    width="50.3%" 
   />
   <img 
     src="https://streak-stats.demolab.com?user=seffhunnn&theme=dark&hide_border=true&background=161B22&ring=F59E0B&fire=F59E0B&currStreakNum=FBBF24&currStreakLabel=FBBF24" 
@@ -77,14 +77,14 @@
 <p align="center">
   <img 
     src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=seffhunnn&layout=compact&theme=dark&hide_border=true&bg_color=161B22" 
-    width="48%" 
+    width="35%" 
   />
 </p>
 
 <p align="center">
   <img 
     src="https://github-readme-stats-fast.vercel.app/api/pin/?username=seffhunnn&repo=frag-verse-wallpaper-app&theme=dark&hide_border=true&bg_color=161B22" 
-    width="60%" 
+    width="35%" 
   />
 </p>
 
