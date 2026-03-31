@@ -77,11 +77,14 @@
 <p align="center">
   <img 
     src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=seffhunnn&layout=compact&theme=dark&hide_border=true&bg_color=161B22" 
-    width="54%" 
+    width="60%" 
   />
+</p>
+
+<p align="center">
   <img 
     src="https://github-readme-stats-fast.vercel.app/api/pin/?username=seffhunnn&repo=frag-verse-wallpaper-app&theme=dark&hide_border=true&bg_color=161B22" 
-    width="44%" 
+    width="60%" 
   />
 </p>
 
