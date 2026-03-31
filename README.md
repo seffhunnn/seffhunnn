@@ -64,13 +64,15 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seffhunnn&theme=dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=false" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seffhunnn&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=seffhunnn&show_icons=true&theme=dark&hide_border=true&bg_color=161B22&include_all_commits=true&hide=contribs" height="180em" />
+  
+  <img src="https://streak-stats.demolab.com?user=seffhunnn&theme=dark&hide_border=true&background=161B22&ring=F59E0B&fire=F59E0B&currStreakNum=FBBF24&currStreakLabel=FBBF24" height="180em" />
 </p>
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seffhunnn&theme=dark&show_icons=true&hide_border=true&layout=compact" width="40%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=seffhunnn&layout=compact&theme=dark&hide_border=true&bg_color=161B22" height="180em" />
+  
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=seffhunnn&repo=frag-verse-wallpaper-app&theme=dark&hide_border=true&bg_color=161B22" height="180em" />
 </p>
 
 
