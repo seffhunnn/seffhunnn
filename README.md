@@ -1,8 +1,14 @@
 
 
-<h2 align="center">
+<!-- <h2 align="center">
   <span style="color:#00FFAB;">✦ I smoke & commit sometimes ✦</span>
-</h2> 
+</h2>  -->
+
+<h2 align="center">
+  <a href="https://seffhunnn.vercel.app/" target="_blank" rel="noopener noreferrer" style="color:white; text-decoration:none;">
+    🔗portfolio
+  </a>
+</h2>
 
 <!-- <p align="center">
   <img src="200.gif" width="400"/>
