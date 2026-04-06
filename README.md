@@ -6,8 +6,8 @@
 </h2>  -->
 
 <h2 align="center">
-  <a href="https://seffhunnn.vercel.app/" target="_blank" rel="noopener noreferrer" style="color:white; text-decoration:none;">
-    🔗Portfolio
+  <a href="https://guns.lol/seffhunnn" target="_blank" rel="noopener noreferrer" style="color:white; text-decoration:none;">
+   guns.lol/seffhunnn
   </a>
 </h2>
 
