@@ -1,39 +1,20 @@
 
-
-
-<!-- <h2 align="center">
-  <span style="color:#00FFAB;">✦ I smoke & commit sometimes ✦</span>
-</h2>  -->
-
 <h2 align="center">
   <a href="https://guns.lol/seffhunnn" target="_blank" rel="noopener noreferrer" style="color:white; text-decoration:none;">
    guns.lol/seffhunnn
   </a>
 </h2>
 
-
-<!-- <p align="center">
-  <img src="200.gif" width="400"/>
-</p>  -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seffhunnn/seffhunnn/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seffhunnn/seffhunnn/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/seffhunnn/seffhunnn/output/pacman-contribution-graph.svg">
 </picture>
 
-
-
-<!-- <p align="center">
-  <img src="https://i.pinimg.com/originals/01/38/11/013811d63121a093c32714cbbeeea0d0.gif" width="100%" height="300px"  />
-</p>  -->
-
-
 ## ● Socials 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/seffhunnn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seffhunnn)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohdsaifansari8888@gmail.com)
-
-
 
 ## ● Tech Stack
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
