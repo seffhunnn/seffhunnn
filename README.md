@@ -1,12 +1,13 @@
 
 
+
 <!-- <h2 align="center">
   <span style="color:#00FFAB;">✦ I smoke & commit sometimes ✦</span>
 </h2>  -->
 
 <h2 align="center">
   <a href="https://seffhunnn.vercel.app/" target="_blank" rel="noopener noreferrer" style="color:white; text-decoration:none;">
-    🔗portfolio
+    🔗Portfolio
   </a>
 </h2>
 
@@ -25,11 +26,13 @@
 
 ###
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seffhunnn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohdsaifansari8888@gmail.com) 
+## 🌐Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seffhunnn)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohdsaifansari8888@gmail.com)
 
 
-# 💻 Tech Stack:
+
+## ⚡Tech Stack:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -67,7 +70,7 @@
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
-# 📊 GitHub Stats:
+## 📉GitHub Stats:
 
 <p align="center">
   <img 
@@ -83,7 +86,7 @@
 <p align="center">
   <img 
     src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=seffhunnn&layout=compact&theme=dark&hide_border=true&bg_color=161B22" 
-    width="35%" 
+    width="30%" 
   />
 </p>
 
