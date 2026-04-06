@@ -11,22 +11,26 @@
   </a>
 </h2>
 
+
 <!-- <p align="center">
   <img src="200.gif" width="400"/>
 </p>  -->
-
-
-###
-
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seffhunnn/seffhunnn/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seffhunnn/seffhunnn/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/seffhunnn/seffhunnn/output/pacman-contribution-graph.svg">
-</picture> 
+</picture>  -->
 
-###
+
+
+<p align="center">
+  <!-- <img src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" width="48%" />  -->
+  <img src="https://i.pinimg.com/originals/13/45/50/13455040862ac9b8e465185878838cf1.gif" width="100%" height="350px" />
+</p> 
+
 
 ## 🌐Socials:
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/seffhunnn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seffhunnn)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohdsaifansari8888@gmail.com)
 
@@ -70,25 +74,27 @@
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
-## 📉GitHub Stats:
 
+##
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seffhunnn&bg_color=000000&color=8b949e&line=0084ff&point=8b949e&area=true&hide_border=true&hide_title=true&height=300" width="100%"/>
+</p>
 <p align="center">
   <img 
-    src="https://github-readme-stats-fast.vercel.app/api?username=seffhunnn&show_icons=true&theme=dark&hide_border=true&bg_color=161B22&include_all_commits=true&hide=contribs" 
-    width="50.3%" 
+    src="https://github-readme-stats-fast.vercel.app/api?username=seffhunnn&show_icons=true&theme=transparent&hide_border=true&bg_color=000000&title_color=0084ff&text_color=8b949e&icon_color=0084ff&include_all_commits=true&hide=contribs" 
+    width="51.5%" height = "100%" 
   />
   <img 
-    src="https://streak-stats.demolab.com?user=seffhunnn&theme=dark&hide_border=true&background=161B22&ring=F59E0B&fire=F59E0B&currStreakNum=FBBF24&currStreakLabel=FBBF24" 
-    width="46.5%" 
+    src="https://streak-stats.demolab.com?user=seffhunnn&theme=transparent&hide_border=true&background=000000&ring=0084ff&fire=0084ff&currStreakNum=0084ff&currStreakLabel=0084ff&sideNums=8b949e&sideLabels=8b949e&dates=8b949e" 
+    width="47.5%" 
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=seffhunnn&layout=compact&theme=dark&hide_border=true&bg_color=161B22" 
-    width="30%" 
-  />
-</p>
+
+
+
+
+
 
 <!-- <p align="center">
   <img 
