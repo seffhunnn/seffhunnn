@@ -25,7 +25,7 @@
 
 <p align="center">
   <!-- <img src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" width="48%" />  -->
-  <img src="https://i.pinimg.com/originals/13/45/50/13455040862ac9b8e465185878838cf1.gif" width="100%" height="325px" />
+  <img src="https://i.pinimg.com/originals/13/45/50/13455040862ac9b8e465185878838cf1.gif" width="100%" height="350px" />
 </p> 
 
 
