@@ -15,18 +15,17 @@
 <!-- <p align="center">
   <img src="200.gif" width="400"/>
 </p>  -->
-<!-- <picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seffhunnn/seffhunnn/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seffhunnn/seffhunnn/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/seffhunnn/seffhunnn/output/pacman-contribution-graph.svg">
-</picture>  -->
+</picture>
 
 
 
-<p align="center">
-  <!-- <img src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" width="48%" />  -->
+<!-- <p align="center">
   <img src="https://i.pinimg.com/originals/01/38/11/013811d63121a093c32714cbbeeea0d0.gif" width="100%" height="300px"  />
-</p> 
+</p>  -->
 
 
 ## 🌐Socials:
