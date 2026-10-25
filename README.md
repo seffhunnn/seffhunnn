@@ -51,7 +51,7 @@
 <!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=seffhunnn&bg_color=000000&color=8b949e&line=0084ff&point=8b949e&area=true&hide_border=true&hide_title=true&height=300" width="100%"/>
 </p> -->
-<p align="center">
+<!-- <p align="center">
   <img 
     src="https://github-readme-stats-fast.vercel.app/api?username=seffhunnn&show_icons=true&theme=transparent&hide_border=true&bg_color=000000&title_color=0084ff&text_color=8b949e&icon_color=0084ff&include_all_commits=true&hide=contribs" 
     width="51.5%" height = "100%" 
@@ -61,7 +61,7 @@
   src="https://streak-stats.demolab.com?user=seffhunnn&theme=transparent&hide_border=true&background=000000&stroke=30363d&ring=0084ff&fire=0084ff&currStreakNum=0084ff&currStreakLabel=0084ff&sideNums=8b949e&sideLabels=8b949e&dates=8b949e" 
   width="47.5%" 
 />
-</p> 
+</p>  -->
 
 
 
