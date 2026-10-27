@@ -16,9 +16,11 @@
 </picture>
 
 ## ● Socials 
+[![Portfolio](https://img.shields.io/badge/Portfolio-343A40?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sayff.vercel.app/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/seffhunnn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seffhunnn)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohdsaifansari8888@gmail.com)
+[![Email](https://img.shields.io/badge/Email-B4233A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohdsaifansari8888@gmail.com)
+
 
 ## ● Tech Stack
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
